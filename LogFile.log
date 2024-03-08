@@ -1,0 +1,16 @@
+мар. 08, 2024 1:06:11 PM org.example.Calculator setFirstNumber
+INFO: Введите первое число в формате 'a+bi': 
+мар. 08, 2024 1:06:14 PM org.example.Calculator setSecondNumber
+INFO: Введите второе число в формате 'a+bi': 
+мар. 08, 2024 1:06:17 PM org.example.Calculator setSecondNumber
+INFO: Введено число 56
+мар. 08, 2024 1:06:17 PM org.example.Calculator setOperation
+INFO: Введите операцию: 
+мар. 08, 2024 1:06:19 PM org.example.Calculator setOperation
+INFO: Введена операция Сложение
+мар. 08, 2024 1:06:19 PM org.example.Calculator setOperation
+INFO: Результат: 68
+мар. 08, 2024 1:06:19 PM org.example.Calculator getCommand
+INFO: Для выхода из программы введите 'q'
+мар. 08, 2024 1:06:23 PM org.example.Calculator getCommand
+INFO: Выход из пограммы 
